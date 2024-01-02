@@ -101,3 +101,11 @@ main {
     cursor: pointer;
     
 }
+
+.meme--image {
+    max-width: 100%;
+    top: 235px;
+    margin: 32px 37px;
+    border-radius: 2px;
+
+}
